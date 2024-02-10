@@ -3,6 +3,6 @@ name = "circuit"
 type = "bin"
 authors = [""]
 entry = "src/main.nr"
-compiler_version = ">=0.22.0"
+compiler_version = ">=0.17.0"
 
 [dependencies]
